@@ -1,0 +1,5 @@
+Como abrir a One Page da Duda
+1. Descompacte esta pasta.
+2. Dê dois cliques em index.html (abre no Chrome ou no Safari).
+3. Clique na tela do MacBook para entrar.
+Não precisa de internet. Mantenha a pasta "assets" ao lado do index.html.
